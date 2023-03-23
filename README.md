@@ -1,1 +1,1 @@
-# ProgramowanieSemestr2
+Zadania z programowania semestr II 2023
